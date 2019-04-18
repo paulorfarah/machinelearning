@@ -1,0 +1,15 @@
+backports.functools-lru-cache==1.5
+capstone==3.0.5
+cycler==0.10.0
+kiwisolver==1.0.1
+matplotlib==2.2.2
+ml-pylib==0.0.3
+numpy==1.14.5
+pep8==1.7.1
+pyparsing==2.2.0
+python-dateutil==2.7.3
+pytz==2018.5
+six==1.11.0
+virtualenv==16.4.3
+scikit-learn
+scikit-plot
